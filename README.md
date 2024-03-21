@@ -1,4 +1,4 @@
-# Matheus Abrahão Martins Alvares <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mamalvares/assets/mandalorian.gif" data-target="animated-image.originalLink"><img src="https://github.com/mamalvares/assets/mandalorian.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
+# Matheus Abrahão Martins Alvares <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="./assets/mandalorian.gif" data-target="animated-image.originalLink"><img src="./assets/mandalorian.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 
 **`(Desenvolvedor/Universitário/Empreendedor)`**
 
