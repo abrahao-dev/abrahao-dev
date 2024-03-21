@@ -1,6 +1,6 @@
-# Matheus Abrahão Martins Alvares <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="./assets/mandalorian.gif" data-target="animated-image.originalLink"><img src="./assets/mandalorian.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
+# Matheus Abrahão <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="./assets/mandalorian.gif" data-target="animated-image.originalLink"><img src="./assets/mandalorian.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 
-**`Desenvolvedor/Universitário/Empreendedor`**
+**`Developer/University/Entrepreneur`**
 
 <p dir="auto">
 
@@ -37,20 +37,5 @@
 
 ### Hello World! <animated-image data-catalyst="" style="width: 18px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
    
-   Desde jovem, sempre fui apaixonado por tecnologia e jogos de computador. Quando eu tinha 14 anos, tive a oportunidade
-   de conhecer esse "mundo", foi justamente quando comecei a programar. Meu primeiro contato com uma linha de código foi
-   quando tive a ideia de alterar arquivos dentro de um jogo de PC utilizando a linguagem C++, porém foi aí que percebi
-   que BackEnd não era minha área, e sim o FrontEnd mais especificamente para Web.
-
-   Mas eu não me contentava apenas com software, aos 15 anos, decidi montar meu próprio PC Gamer. Foi um desafio
-   incrível, que me permitiu aprender ainda mais sobre tecnologia e como os componentes de hardware funcionam juntos.
-   Depois de um tempo eu já estava montando e fazendo reparos nos computadores de meus amigos/conhecidos.
-
-   Com o passar dos anos, meus conhecimentos e habilidades em programação evoluíram, e eu já tive a oportunidade de
-   realizar projetos freelancer de website para empresas pertencentes à conhecidos/amigos. Cada projeto era uma nova
-   oportunidade para aprender e aprimorar minhas habilidades, e eu me orgulho de ter contribuído para o sucesso de cada
-   uma dessas empresas.
-
-   Hoje, continuo a evoluir como programador e estou sempre procurando por novos desafios e oportunidades de
-   aprendizado. Acredito que a paixão pela tecnologia e a determinação de sempre melhorar é a chave para o sucesso nesta
-   indústria em constante evolução.
+   • I'm Matheus Abrahão, Brazilian 🇧🇷, currently I'm a university Engineer in USF BR, passionate about solving problems with technology and creating different solutions. I'm also a digital Entrepreneur, I have a e-commerce which uses the dropshipping system to sell clothes, sneakers and men's accessories with an old money theme, I created the store in 2021 with shopify technology, I manage it myself, serve customers and manage the social networks/marketing of my e-commerce.
+    
