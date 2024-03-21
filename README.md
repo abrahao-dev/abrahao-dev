@@ -33,7 +33,7 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-# <h3>Hello World</h3>
+### Hello World! <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
    
    Desde jovem, sempre fui apaixonado por tecnologia e jogos de computador. Quando eu tinha 14 anos, tive a oportunidade
    de conhecer esse "mundo", foi justamente quando comecei a programar. Meu primeiro contato com uma linha de código foi
@@ -48,7 +48,7 @@
    realizar projetos freelancer de website para empresas pertencentes à conhecidos/amigos. Cada projeto era uma nova
    oportunidade para aprender e aprimorar minhas habilidades, e eu me orgulho de ter contribuído para o sucesso de cada
    uma dessas empresas.
-   
+
    Hoje, continuo a evoluir como programador e estou sempre procurando por novos desafios e oportunidades de
    aprendizado. Acredito que a paixão pela tecnologia e a determinação de sempre melhorar é a chave para o sucesso nesta
    indústria em constante evolução.
