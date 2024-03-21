@@ -5,6 +5,8 @@
 Sou desenvolvedor FrontEnd, Universitário em Engenharia de Computação e Empreendedor no mundo digital. Todos os meus
 projetos foram desenvolvidos com o propósito de aprender e contribuir para minha carreira como Dev.
 
+#
+
 ### Linguagens e Ferramentas 🧰
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;"
