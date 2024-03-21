@@ -12,9 +12,7 @@
 </p>
 
 ### Hello World! <animated-image data-catalyst="" style="width: 18px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
-
 #
-
 I'm Matheus Abrahão, <strong>Brazilian</strong> 🇧🇷, currently I'm a <strong>University Computer Engineer</strong> in <strong>Universidade São Francisco</strong> 🇧🇷, passionate about solving problems with technology and creating different solutions.
 
 I'm also a <strong>Digital Entrepreneur</strong>, I have a e-commerce which uses the dropshipping system to sell clothes, sneakers and men's accessories with an old money theme, I created the store in 2021 with shopify technology, I manage it myself, serve customers and manage the social networks/marketing of my e-commerce.
