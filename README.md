@@ -1,4 +1,4 @@
-# 👾 Matheus Abrahão Martins Alvares <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" data-target="animated-image.originalLink"><img src="https://github.com/mupezzuol/mupezzuol/raw/master/assets/mario_hello_big.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
+# Matheus Abrahão Martins Alvares <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" data-target="animated-image.originalLink"><img src="https://github.com/mupezzuol/mupezzuol/raw/master/assets/mario_hello_big.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 
 **`(Desenvolvedor/Universitário/Empreendedor)`**
 
