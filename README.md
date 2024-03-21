@@ -33,6 +33,8 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
+#
+
 ### Hello World! <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
    
    Desde jovem, sempre fui apaixonado por tecnologia e jogos de computador. Quando eu tinha 14 anos, tive a oportunidade
