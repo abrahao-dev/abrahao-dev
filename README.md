@@ -35,7 +35,7 @@
 
 #
 
-### Hello World! <animated-image data-catalyst="" style="width: 20px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="20px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
+### Hello World! <animated-image data-catalyst="" style="width: 18px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
    
    Desde jovem, sempre fui apaixonado por tecnologia e jogos de computador. Quando eu tinha 14 anos, tive a oportunidade
    de conhecer esse "mundo", foi justamente quando comecei a programar. Meu primeiro contato com uma linha de código foi
