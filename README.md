@@ -26,20 +26,10 @@ I'm also a <strong>Digital Entrepreneur</strong>, I have a <strong>e-commerce</s
 
 ### Linguagens e Ferramentas 🧰
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="Php" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Php/Php.svg" />
-
-<img align="left" alt="C" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+-JavaScript
+-HTML5
+-CSS6
+- C
+-SQL
+-PHP
+-Python
