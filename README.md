@@ -25,11 +25,10 @@ I'm also a <strong>Digital Entrepreneur</strong>, I have a <strong>e-commerce</s
 #
 
 ### Linguagens e Ferramentas 🧰
-
--JavaScript
--HTML5
--CSS6
-- C
--SQL
--PHP
--Python
+ • JavaScript
+ • HTML5
+ • CSS6
+ • SQL
+ • C
+ • PHP
+ • Python
