@@ -24,8 +24,8 @@ I'm also a <strong>Digital Entrepreneur</strong>, I have a <strong>e-commerce</s
 
 #
 
-### Linguagens e Ferramentas 🧰
- • JavaScript
+### Languages and Technologies
+ • https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg
  • HTML5
  • CSS6
  • SQL
