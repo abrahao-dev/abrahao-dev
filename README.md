@@ -68,7 +68,7 @@ I am a highly motivated backend and mobile developer with a strong foundation in
 #
 
 ### Contact
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [contato.matheusabrahao@gmail.com](mailto:contato.matheusabrahao@gmail.com)
 - **LinkedIn**: [Matheus Abrahão](https://www.linkedin.com/in/matheus-abrah%C3%A3o-1a7aa5246/)
 - **Website**: [www.matheusabrahao.com.br](http://www.matheusabrahao.com.br)
 
