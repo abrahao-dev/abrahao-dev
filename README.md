@@ -39,13 +39,12 @@ I'm also a <strong>Digital Entrepreneur</strong>, I have a <strong>e-commerce</s
 <a href="#"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 <a href="#"><img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
 <a href="#"><img align="center" alt="Xcode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"></a>
-<a href="#"><img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"></a>
 
 #
 
 ### Current Focus
 - 🚀 Developing scalable backend solutions
-- 📱 Creating intuitive mobile applications
+- 📱 Creating intuitive iOS mobile applications
 - 🗄️ Designing efficient database structures
 - 🔒 Implementing secure authentication systems
 - 🌐 Exploring cloud technologies and serverless architectures
