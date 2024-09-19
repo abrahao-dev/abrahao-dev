@@ -1,6 +1,6 @@
 # Matheus Abrahão <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="./assets/mandalorian.gif" data-target="animated-image.originalLink"><img src="./assets/mandalorian.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 
-**`Developer/University/Entrepreneur`**
+**`Backend Developer | Mobile Developer | Entrepreneur`**
 
 <p dir="auto">
   <a href="https://www.instagram.com/abrahao.dev" style="text-decoration: none;">
@@ -13,7 +13,7 @@
 
 
 ### Hello World! <animated-image data-catalyst="" style="width: 18px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
-I'm Matheus Abrahão, <strong>Brazilian</strong> 🇧🇷, currently I'm a <strong>University Computer Engineer</strong> in <strong>Universidade São Francisco</strong> 🇧🇷, passionate about solving problems with technology and creating different solutions.
+I'm Matheus Abrahão, a Brazilian 🇧🇷 backend and mobile developer with a passion for creating robust and scalable solutions. Currently pursuing a Computer Engineering degree at Universidade São Francisco, I'm dedicated to solving complex problems and building innovative applications.
 
 I'm also a <strong>Digital Entrepreneur</strong>, I have a <strong>e-commerce</strong> which uses the dropshipping system <strong>(+100k in sells)</strong> that contains clothes, sneakers and men's accessories with an old money theme, I created the store in 2022 with shopify technology, I manage it myself, serve customers and manage the social networks/marketing of my e-commerce.
 
@@ -22,6 +22,40 @@ I'm also a <strong>Digital Entrepreneur</strong>, I have a <strong>e-commerce</s
    • ✈️ I love to travel and get to know new places and cultures. <br>
    • ⚽ Passionate about football, Sociedade Esportiva Palmeiras (Brazil) 🟢⚪️ <br>
    • 👨‍🎓 My Academic Life here!
+
+#
+
+### Tech Stack
+<a href="#"><img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></a>
+<a href="#"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+<a href="#"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
+<a href="#"><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+<a href="#"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></a>
+<a href="#"><img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+
+#
+
+### Tools & Frameworks
+<a href="#"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+<a href="#"><img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
+<a href="#"><img align="center" alt="Xcode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"></a>
+<a href="#"><img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"></a>
+
+#
+
+### Current Focus
+- 🚀 Developing scalable backend solutions
+- 📱 Creating intuitive mobile applications
+- 🗄️ Designing efficient database structures
+- 🔒 Implementing secure authentication systems
+- 🌐 Exploring cloud technologies and serverless architectures
+
+#
+
+### Featured Projects
+1. [Project Name] - Brief description (Mobile App, Backend Service, etc.)
+2. [Project Name] - Brief description
+3. [Project Name] - Brief description
 
 #
 
