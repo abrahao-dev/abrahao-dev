@@ -14,6 +14,21 @@
   </a>
 </p>
 
+### Tech Stack
+<a href="#"><img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></a>
+<a href="#"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+<a href="#"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
+<a href="#"><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+<a href="#"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></a>
+<a href="#"><img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+
+### Tools & Frameworks
+<a href="#"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+<a href="#"><img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
+<a href="#"><img align="center" alt="Xcode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"></a>
+
+#
+
 ### Hello World! <animated-image data-catalyst="" style="width: 18px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 I'm Matheus Abrahão, a Brazilian 🇧🇷 backend and mobile developer with a passion for creating robust and scalable solutions. Currently pursuing a Computer Engineering degree at Universidade São Francisco, I'm dedicated to solving complex problems and building innovative applications.
 
@@ -24,14 +39,6 @@ I'm also a <strong>Digital Entrepreneur</strong>, I have a <strong>e-commerce</s
    • ✈️ I love to travel and get to know new places and cultures. <br>
    • ⚽ Passionate about football, Sociedade Esportiva Palmeiras (Brazil) 🟢⚪️ <br>
    • 👨‍🎓 My Academic Life here!
-
-#
-
-### Tech Stack
-Swift, Java, C, SQL, Firebase, Next.js
-
-### Tools & Frameworks
-Git, Microsoft SQL Server, Xcode
 
 #
 
@@ -73,3 +80,4 @@ I am a highly motivated backend and mobile developer with a strong foundation in
 - **Website**: [www.matheusabrahao.com.br](http://www.matheusabrahao.com.br)
 
 #
+
