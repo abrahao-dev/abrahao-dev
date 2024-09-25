@@ -63,13 +63,6 @@ I am a highly motivated backend and mobile developer with a strong foundation in
 
 #
 
-### Projects
-1. **[Project Name](https://github.com/yourusername/project1)** - A brief description of the project, highlighting your role and the technologies used.
-2. **[Project Name](https://github.com/yourusername/project2)** - A brief description of the project, highlighting your role and the technologies used.
-3. **[Project Name](https://github.com/yourusername/project3)** - A brief description of the project, highlighting your role and the technologies used.
-
-#
-
 ### Education
 - **Computer Engineering** - Universidade São Francisco
 
