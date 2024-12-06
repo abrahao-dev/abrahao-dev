@@ -15,14 +15,14 @@
 </p>
 
 ### Tech Stack
-<a href="#" target="_blank"><img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/swift/swift-original.svg"></a>
-<a href="#" target="_blank"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/java/java-original.svg"></a>
-<a href="#" target="_blank"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/c/c-plain.svg"></a>
-<a href="#" target="_blank"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/mysql/mysql-original.svg"></a>
-<a href="#" target="_blank"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/firebase/firebase-original.svg"></a>
-<a href="#" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/html5/html5-original.svg"></a>
-<a href="#" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/css3/css3-original.svg"></a>
-<a href="#" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+<a href="#"><img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/swift/swift-original.svg"></a>
+<a href="#"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/java/java-original.svg"></a>
+<a href="#"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/c/c-plain.svg"></a>
+<a href="#"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+<a href="#"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/firebase/firebase-original.svg"></a>
+<a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/html5/html5-original.svg"></a>
+<a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/css3/css3-original.svg"></a>
+<a href="#"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/javascript/javascript-original.svg"></a>
 
 ### Tools & Frameworks
 <a href="#"><img align="center" alt="XCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"></a>
@@ -31,7 +31,7 @@
 
 #
 
-### Hello World! <animated-image data-catalyst="" style="width: 18px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
+### Hello World! <animated-image data-catalyst="" style="width: 18px;"><" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 I'm Matheus Abrahão, a Brazilian iOS developer 🇧🇷 specialized in creating native apps that combine functional design, optimized performance and an intuitive user experience. With a solid academic foundation in Computer Engineering from Universidade São Francisco, my passion is to build scalable, modular and high-performance mobile solutions, always following the best development practices.
 
    • 💻 I love helping people with my knowledge <br>
