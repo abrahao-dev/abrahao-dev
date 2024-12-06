@@ -1,6 +1,6 @@
 # Matheus Abrahão <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="./assets/mandalorian.gif" data-target="animated-image.originalLink"><img src="./assets/mandalorian.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
 
-**`Software Engineer | Backend | Java`**
+**`Mobile Developer | Swift | iOS`**
 
 <p dir="auto">
   <a href="https://www.instagram.com/abrahao.dev" style="text-decoration: none;">
@@ -15,23 +15,24 @@
 </p>
 
 ### Tech Stack
+<a href="#"><img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/swift/swift-original.svg"></a>
 <a href="#"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 <a href="#"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
-<a href="#"><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
-<a href="#"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
-<a href="#"><img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
+<a href="#"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+<a href="#"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/firebase/firebase-original.svg"></a>
 <a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <a href="#"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
 
 ### Tools & Frameworks
+<a href="#"><img align="center" alt="XCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"></a>
 <a href="#"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 <a href="#"><img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
 
 #
 
 ### Hello World! <animated-image data-catalyst="" style="width: 18px;"><a target="_blank" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
-I'm Matheus Abrahão, a Brazilian 🇧🇷 Java Backend Developer with a passion for creating robust and scalable solutions. Currently pursuing a Computer Engineering degree at Universidade São Francisco, I'm dedicated to solving complex problems and building innovative applications.
+I'm Matheus Abrahão, a Brazilian iOS developer 🇧🇷 specialized in creating native apps that combine functional design, optimized performance and an intuitive user experience. With a solid academic foundation in Computer Engineering from Universidade São Francisco, my passion is to build scalable, modular and high-performance mobile solutions, always following the best development practices.
 
    • 💻 I love helping people with my knowledge <br>
    • 🏡 I love being with my family and friends, they are everything to me. <br>
@@ -42,15 +43,15 @@ I'm Matheus Abrahão, a Brazilian 🇧🇷 Java Backend Developer with a passion
 #
 
 ### Professional Summary
-I am a passionate and driven backend and mobile developer with a solid foundation in computer engineering. I excel in designing and implementing scalable backend solutions, consistently delivering high-quality results. My expertise lies in creating robust architectures that enhance performance and reliability, and I am committed to continuous learning and innovation in the field.
+I'm an iOS developer passionate about creating apps that deliver high performance and an excellent user experience. With experience in Swift, UIKit, MVVM and integration with APIs, I always seek to adopt the best practices and methodologies to develop robust and scalable solutions. My goal is to contribute to the development of products that stand out not only for their design, but also for their functionality and performance.
 
 #
 
-### Current Focus
-- 🚀 Developing scalable backend solutions
-- 🗄️ Designing efficient database structures
-- 🔒 Implementing secure authentication systems
-- 🌐 Exploring cloud technologies and serverless architectures
+### Focus:
+🚀 Scalable, high-performance iOS app development
+🧩 MVVM, Clean Architecture and modularization architectures for greater flexibility
+🔒 Implementation of secure authentication and integration with RESTful and GraphQL APIs
+📱 Performance optimization, state management and automated testing
 
 #
 
@@ -59,15 +60,7 @@ I am a passionate and driven backend and mobile developer with a solid foundatio
 
 #
 
-### Certifications
-- **Certification Name** - Issuing Organization
-- **Certification Name** - Issuing Organization
-
-#
-
 ### Contact
 - **Email**: [contato.matheusabrahao@gmail.com](mailto:contato.matheusabrahao@gmail.com)
 - **LinkedIn**: [Matheus Abrahão](https://www.linkedin.com/in/matheus-abrah%C3%A3o-1a7aa5246/)
 - **Website**: [www.matheusabrahao.com.br](http://www.matheusabrahao.com.br)
-
-#
