@@ -16,13 +16,13 @@
 
 ### Tech Stack
 <a href="#"><img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/swift/swift-original.svg"></a>
-<a href="#"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-<a href="#"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
-<a href="#"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+<a href="#"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/java/java-original.svg"></a>
+<a href="#"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/c/c-plain.svg"></a>
+<a href="#"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 <a href="#"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/firebase/firebase-original.svg"></a>
-<a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-<a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="#"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+<a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/html5/html5-original.svg"></a>
+<a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/css3/css3-original.svg"></a>
+<a href="#"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/javascript/javascript-original.svg"></a>
 
 ### Tools & Frameworks
 <a href="#"><img align="center" alt="XCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"></a>
