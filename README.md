@@ -31,8 +31,11 @@
 
 #
 
-### Hello World! <animated-image data-catalyst="" style="width: 18px;"><" rel="noopener noreferrer" href="./assets/earth.gif" data-target="animated-image.originalLink"><img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
-I'm Matheus Abrahão, a Brazilian iOS developer 🇧🇷 specialized in creating native apps that combine functional design, optimized performance and an intuitive user experience. With a solid academic foundation in Computer Engineering from Universidade São Francisco, my passion is to build scalable, modular and high-performance mobile solutions, always following the best development practices.
+### Hello World! 
+<a href="./assets/earth.gif" rel="noopener noreferrer" target="_blank">
+    <img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" alt="Earth Animation">
+</a>
+I'm Matheus Abrahão, a Brazilian iOS developer 🇧🇷 specialized in creating native apps that combine functional design, optimized performance, and an intuitive user experience. With a solid academic foundation in Computer Engineering from Universidade São Francisco, my passion is to build scalable, modular, and high-performance mobile solutions, always following the best development practices.
 
    • 💻 I love helping people with my knowledge <br>
    • 🏡 I love being with my family and friends, they are everything to me. <br>
