@@ -1,6 +1,6 @@
 # Matheus Abrahão
 
-**`Full Stack Developer | C# | .NET | React | Azure`**
+**`FullStack Developer | C# | .NET | React | Azure`**
 
 <p dir="auto">
   <a href="https://www.instagram.com/abrahao.dev" style="text-decoration: none;">
