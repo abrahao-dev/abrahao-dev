@@ -1,6 +1,6 @@
-# Matheus Abrahão <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer" href="./assets/mandalorian.gif" data-target="animated-image.originalLink"><img src="./assets/mandalorian.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image>
+# Matheus Abrahão
 
-**`Mobile Developer | Swift | iOS`**
+**`Full Stack Developer | C# | .NET | React | Azure`**
 
 <p dir="auto">
   <a href="https://www.instagram.com/abrahao.dev" style="text-decoration: none;">
@@ -15,46 +15,39 @@
 </p>
 
 ### Tech Stack
-<a href="#"><img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></a>
-<a href="#"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-<a href="#"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></a>
+<a href="#"><img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
+<a href="#"><img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></a>
+<a href="#"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a href="#"><img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></a>
 <a href="#"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
-<a href="#"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"></a>
-<a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-<a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="#"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+<a href="#"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 
 ### Tools & Frameworks
-<a href="#"><img align="center" alt="XCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"></a>
-<a href="#"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-<a href="#"><img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
+<a href="#"><img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a>
+<a href="#"><img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
+<a href="#"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
 
 #
 
-### Hello World! 
-<a href="./assets/earth.gif" rel="noopener noreferrer" target="_blank">
-    <img src="./assets/earth.gif" height="18px" style="max-width: 100%; display: inline-block;" alt="Earth Animation">
-</a>
-I'm Matheus Abrahão, a Brazilian iOS developer 🇧🇷 specialized in creating native apps that combine functional design, optimized performance, and an intuitive user experience. With a solid academic foundation in Computer Engineering from Universidade São Francisco, my passion is to build scalable, modular, and high-performance mobile solutions, always following the best development practices.
+### Hello World!
+I'm Matheus Abrahão, a Full Stack Developer 🇧🇷 specializing in scalable and high-performance web solutions. With a strong background in C#, .NET, React, and Azure, I focus on building efficient, maintainable, and modular applications. I have hands-on experience with cloud technologies, API development, and modern web frameworks, always applying best practices to ensure optimal performance and security.
 
-   • 💻 I love helping people with my knowledge <br>
-   • 🏡 I love being with my family and friends, they are everything to me. <br>
-   • ✈️ I love to travel and get to know new places and cultures. <br>
-   • ⚽ Passionate about football, Sociedade Esportiva Palmeiras (Brazil) 🟢⚪️ <br>
-   • 👨‍🎓 My Academic Life here!
+• 💻 Passionate about clean code and innovative problem-solving <br>
+• 🔧 Hands-on experience in backend and frontend development <br>
+• 🚀 Constantly learning and improving with emerging technologies
 
 #
 
 ### Professional Summary
-I'm an iOS developer passionate about creating apps that deliver high performance and an excellent user experience. With experience in Swift, UIKit, MVVM and integration with APIs, I always seek to adopt the best practices and methodologies to develop robust and scalable solutions. My goal is to contribute to the development of products that stand out not only for their design, but also for their functionality and performance.
+As a Full Stack Developer, I specialize in building end-to-end solutions using C#, .NET, React, and cloud technologies like Azure. I focus on creating robust, scalable, and efficient systems that can grow with the business. My experience spans from backend development, designing RESTful APIs, database management, to implementing modern frontend interfaces with React. I have successfully developed and managed my own e-commerce platform, www.martin4shop.com.br, which has enhanced my practical skills in both front-end and back-end development.
 
 #
 
 ### Focus:
-🚀 Scalable, high-performance iOS app development
-🧩 MVVM, Clean Architecture and modularization architectures for greater flexibility
-🔒 Implementation of secure authentication and integration with RESTful and GraphQL APIs
-📱 Performance optimization, state management and automated testing
+🚀 Building scalable web applications with a strong backend architecture  
+🧩 Utilizing Clean Architecture, Microservices, and modular code for flexibility  
+🔒 Developing secure and efficient systems with industry-standard practices  
+📱 Performance optimization, API integration, and cloud-based solutions
 
 #
 
@@ -67,3 +60,5 @@ I'm an iOS developer passionate about creating apps that deliver high performanc
 - **Email**: [contato.matheusabrahao@gmail.com](mailto:contato.matheusabrahao@gmail.com)
 - **LinkedIn**: [Matheus Abrahão](https://www.linkedin.com/in/matheus-abrah%C3%A3o-1a7aa5246/)
 - **Website**: [www.matheusabrahao.com.br](http://www.matheusabrahao.com.br)
+
+#
