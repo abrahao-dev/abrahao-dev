@@ -1,6 +1,6 @@
 # Matheus Abrahão
 
-**`Full Stack Developer | C# | .NET | React | Azure`**
+**`Backend Developer | C# | .NET | Azure`**
 
 <p>
   <a href="https://www.instagram.com/abrahao.dev">
@@ -19,7 +19,6 @@
 ### Tech Stack
 <a href="#"><img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
 <a href="#"><img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></a>
-<a href="#"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
 <a href="#"><img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></a>
 <a href="#"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
 <a href="#"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
@@ -34,21 +33,21 @@
 ---
 
 ### Hello World!
-I'm Matheus Abrahão, a Full Stack Developer 🇧🇷 with expertise in building scalable and high-performance web solutions. My primary focus is on backend development with C#, .NET, and Azure, complemented by modern frontend frameworks like React.
+I'm Matheus Abrahão, a Backend Developer 🇧🇷 with expertise in building scalable and high-performance solutions. My primary focus is on backend development with C#, .NET, and Azure..
 
 - 💻 Passionate about clean code and problem-solving  
-- 🔧 Skilled in backend and frontend development  
+- 🔧 Skilled in backend development  
 - 🚀 Continuously learning and applying emerging technologies  
 
 ---
 
 ### Professional Summary
-As a Full Stack Developer, I specialize in crafting robust systems using C#, .NET, React, and cloud platforms like Azure. I’ve developed and managed the end-to-end infrastructure for my e-commerce platform, [www.martin4shop.com.br](http://www.martin4shop.com.br), gaining experience in both backend and frontend development, API integrations, and database management.
+As a Backend Developer, I specialize in crafting robust systems using C#, .NET, and cloud platforms like Azure. I’ve developed and managed the end-to-end infrastructure for my e-commerce platform, [www.martin4shop.com.br](http://www.martin4shop.com.br), gaining experience in both backend and frontend development, API integrations, and database management.
 
 ---
 
 ### Focus Areas:
-- Building scalable and modular web applications  
+- Building scalable and modular applications  
 - Leveraging Clean Architecture and microservices  
 - Ensuring performance optimization and API security  
 - Integrating cloud-based solutions with Azure  
