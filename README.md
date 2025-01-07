@@ -49,7 +49,7 @@ I'm Matheus Abrahão, a Software Developer 🇧🇷 with expertise in building s
 ---
 
 ### Professional Summary
-As a Software Developer, I specialize in building scalable and high-performance applications using a variety of modern technologies such as Next.js, Java, Swift, and SQL. I have experience with cloud platforms like AWS, containerization tools such as Docker, and version control with Git. I focus on creating efficient backend systems and seamless integrations across multiple platforms. Additionally, I leverage frameworks like React and Tailwind CSS to craft responsive and user-friendly frontend experiences. With a strong foundation in both backend and frontend development, I am dedicated to delivering reliable, secure, and optimized solutions.
+As a **Full Stack Developer**, I specialize in building scalable applications using technologies like **Next.js**, **JavaScript**, **Swift**, and **SQL**. I have experience with **AWS**, **Docker**, and **Git**, ensuring efficient backend systems and seamless frontend integrations. Currently, I'm expanding my skills in **iOS mobile development** with **Swift** and **SwiftUI** to build responsive, high-performance applications across multiple platforms.
 
 ---
 
