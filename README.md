@@ -1,6 +1,6 @@
 # Matheus Abrahão
 
-**`Backend Developer | C# | .NET | Azure`**
+**`Software Developer | Next JS | Java | Swift | SWL | AWS`**
 
 <p>
   <a href="https://www.instagram.com/abrahao.dev">
@@ -17,40 +17,48 @@
 ---
 
 ### Tech Stack
-<a href="#"><img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-<a href="#"><img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></a>
-<a href="#"><img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></a>
-<a href="#"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+<a href="#"><img align="center" alt="Next JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+<a href="#"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+<a href="#"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
+<a href="#"><img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></a>
+<a href="#"><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
 <a href="#"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+<a href="#"><img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
+<a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+<a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a href="#"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
 
 ---
 
 ### Tools & Frameworks
-<a href="#"><img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a>
-<a href="#"><img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
 <a href="#"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
+<a href="#"><img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
+<a href="#"><img align="center" alt="Xcode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"></a>
+<a href="#"><img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
+<a href="#"><img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></a>
+
 
 ---
 
 ### Hello World!
-I'm Matheus Abrahão, a Backend Developer 🇧🇷 with expertise in building scalable and high-performance solutions. My primary focus is on backend development with C#, .NET, and Azure..
+I'm Matheus Abrahão, a Software Developer 🇧🇷 with expertise in building scalable and high-performance solutions. My primary focus is on Full-Stack development with Next JS, Java, Swift and AWS..
 
 - 💻 Passionate about clean code and problem-solving  
-- 🔧 Skilled in backend development  
+- 🔧 Skilled in Full-Stack development  
 - 🚀 Continuously learning and applying emerging technologies  
 
 ---
 
 ### Professional Summary
-As a Backend Developer, I specialize in crafting robust systems using C#, .NET, and cloud platforms like Azure. I’ve developed and managed the end-to-end infrastructure for my e-commerce platform, [www.martin4shop.com.br](http://www.martin4shop.com.br), gaining experience in both backend and frontend development, API integrations, and database management.
+As a Software Developer, I specialize in building scalable and high-performance applications using a variety of modern technologies such as Next.js, Java, Swift, and SQL. I have experience with cloud platforms like AWS, containerization tools such as Docker, and version control with Git. I focus on creating efficient backend systems and seamless integrations across multiple platforms. Additionally, I leverage frameworks like React and Tailwind CSS to craft responsive and user-friendly frontend experiences. With a strong foundation in both backend and frontend development, I am dedicated to delivering reliable, secure, and optimized solutions.
 
 ---
 
 ### Focus Areas:
-- Building scalable and modular applications  
-- Leveraging Clean Architecture and microservices  
-- Ensuring performance optimization and API security  
-- Integrating cloud-based solutions with Azure  
+- Developing scalable and modular systems
+- Implementing Clean Architecture and microservices
+- Optimizing performance and ensuring API security
+- Integrating cloud-based solutions with AWS
 
 ---
 
