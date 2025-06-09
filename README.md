@@ -80,6 +80,7 @@ In 2025, as an **AI Engineer** at **Cleatus AI**, I developed an internal chatbo
 - **Computer Engineering** - Universidade São Francisco
 - **Machine Learning & AI** - Self-study focused on SVM, Naive Bayes, KNN, K-Means
 - **LLM Engineering** - Fine-tuning techniques and optimized embeddings for classification and contextual retrieval
+- **Swift Live** - iOS Labs Development Course (Swift & SwiftUI)
 
 ---
 
