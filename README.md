@@ -22,17 +22,17 @@
 ## 🚀 Tech Stack
 
 ### **LLMs & GenAI**
-<a href="https://www.langchain.com"><img align="center" alt="LangChain" height="30" width="40" src="https://avatars.githubusercontent.com/u/108497506?s=200&v=4"></a>
+<a href="https://www.langchain.com"><img align="center" alt="LangChain" height="30" width="40" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0"></a>
 <a href="https://openai.com"><img align="center" alt="OpenAI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"></a>
-<a href="https://faiss.ai"><img align="center" alt="FAISS" height="30" width="40" src="https://raw.githubusercontent.com/facebookresearch/faiss/main/faiss-logo.png"></a>
-<a href="https://www.trychroma.com/"><img align="center" alt="ChromaDB" height="30" width="40" src="https://avatars.githubusercontent.com/u/120303797?s=200&v=4"></a>
-<a href="https://posthog.com"><img align="center" alt="PostHog" height="30" width="40" src="https://avatars.githubusercontent.com/u/53387479?s=200&v=4"></a>
+<a href="https://faiss.ai"><img align="center" alt="FAISS" height="30" width="40" src="https://rainboinc.gallerycdn.vsassets.io/extensions/rainboinc/faiss-viewer/0.0.1/1742440759255/Microsoft.VisualStudio.Services.Icons.Default"></a>
+<a href="https://www.trychroma.com/"><img align="center" alt="ChromaDB" height="30" width="40" src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_6ahX99xu2FH8Nkx2KgAvUcQyFiY5"></a>
+<a href="https://posthog.com"><img align="center" alt="PostHog" height="30" width="40" src="https://plgdemos.com/content/images/2024/04/posthog-icon-logo-39846327A9-seeklogo.com.png"></a>
 
 ### **Frontend**
 <a href="https://reactjs.org"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-<a href="https://nextjs.org"><img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+<a href="https://nextjs.org"><img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></a>
 <a href="https://www.typescriptlang.org"><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
-<a href="https://tailwindcss.com"><img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></a>
+<a href="https://tailwindcss.com"><img align="center" alt="Tailwind CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"></a>
 <a href="https://vitejs.dev"><img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg"></a>
 <a href="https://storybook.js.org"><img align="center" alt="Storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg"></a>
 
@@ -41,11 +41,11 @@
 <a href="https://www.python.org"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a href="https://www.java.com"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 <a href="https://graphql.org"><img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></a>
-<a href="https://restfulapi.net"><img align="center" alt="REST APIs" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-rest-api-is-a-set-of-web-services-used-to-access-resources-rest-api-color-tal-revivo.png"></a>
+<a href="https://restfulapi.net"><img align="center" alt="REST APIs" height="30" width="40" src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg"></a>
 
 ### **Cloud & Infrastructure**
 <a href="https://aws.amazon.com"><img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
-<a href="https://vercel.com"><img align="center" alt="Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"></a>
+<a href="https://vercel.com"><img align="center" alt="Vercel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vercel.svg"></a>
 <a href="https://www.docker.com"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
 <a href="https://github.com/features/actions"><img align="center" alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
 <a href="https://www.postman.com/"><img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
