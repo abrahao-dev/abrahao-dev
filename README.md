@@ -63,23 +63,22 @@
 
 ## 🏆 Professional Summary
 
-Software Engineer focused on building modern, scalable full stack applications grounded in clean architecture, automation, and solid software engineering principles. I work primarily with **TypeScript**, **Golang**, **Docker**, and **Cloud**, delivering robust end-to-end solutions with strong foundations in algorithms, data structures, and systems design.
+Full Stack Developer passionate about building modern, scalable full-stack applications rooted in clean architecture, automation, and solid engineering principles. I primarily work with **React**, **Next.js**, **Typescript**, and **Node.js**, delivering robust end-to-end solutions backed by strong foundations in algorithms, data structures, and systems design.
 
-Since 2021, I've independently led the technical operations of **Martin4Shop**, a self-owned e-commerce brand that has generated over $80,000 in revenue. I built the entire platform from scratch using Shopify Hydrogen, React, and Remix, along with custom automations. This experience gave me deep, hands-on insight into how engineering, product, and business intersect — a perspective I bring to every project I work on.
+Since 2021, I’ve independently led the technical operations of **Martin4Shop**, an e-commerce brand I founded that has generated over $80,000 in revenue. I built the entire platform from scratch using Shopify Hydrogen, React, and Remix, along with custom automations. This gave me hands-on experience at the intersection of engineering, product, and business — a perspective I carry into every project.
 
-I have complete command of the development lifecycle: modern web applications, REST/GraphQL APIs, relational and NoSQL databases, CI/CD pipelines, containerization, testing, and clean, maintainable code using SOLID principles. I also have practical experience with machine learning models and AI-powered solutions.
+I have full command of the development lifecycle: modern web applications, REST/GraphQL APIs, relational and NoSQL databases, CI/CD pipelines, containerization, testing, and writing clean, maintainable code following SOLID principles. I also have practical experience integrating machine learning models and AI-powered solutions.
 
-I'm currently looking for opportunities as a Software Engineer in challenging environments where autonomy, technical excellence, and impact matter.
+I’m currently seeking opportunities as a Software Engineer in environments where autonomy, technical excellence, and measurable impact matter.
 
 ---
 
-## 🎯 Focus Areas:
-- **Languages & Frameworks**: TypeScript, Golang, Node.js, React, Next.js, Tailwind, Java, Python
-- **APIs & Architecture**: REST, GraphQL, authentication, versioning, Clean Architecture, SOLID
-- **Databases**: PostgreSQL, MySQL, Firebase (NoSQL), Supabase
-- **Infrastructure & DevOps**: Docker, GitHub Actions (CI/CD), AWS (EC2, S3, Lambda), Vercel
-- **Tools & Testing**: Figma, Postman, Storybook, Vite, unit and integration testing
-- **Other**: LLMs, RAG, OpenAI API, LangChain, FAISS, embeddings, ChromaDB
+## 🎯 Focus Areas
+- **Frontend**: React, Next.js, Tailwind
+- **Backend & APIs**: Node.js, TypeScript, Java, REST/GraphQL
+- **Databases**: PostgreSQL, MySQL
+- **Artificial Intelligence**: LLMs, OpenAI API, Hugging Face, LangChain, LangGraph
+- **DevOps**: Docker, CI/CD, Vercel, AWS  
 
 ---
 
