@@ -1,6 +1,6 @@
 # Matheus Abrahão
 
-**`Software Engineer | Full Stack | TypeScript | Golang | Docker | Cloud`**
+**`Full Stack Developer | React | Next.js | TypeScript | Node.js | SQL`**
 
 <p>
   <a href="http://matheusabrahao.com.br">
