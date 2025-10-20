@@ -22,14 +22,12 @@
 ## Tech Stack
 
 ### **Languages & Frameworks**
-<a href="https://www.typescriptlang.org"><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
-<a href="https://golang.org"><img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
-<a href="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
-<a href="https://reactjs.org"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-<a href="https://nextjs.org"><img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></a>
-<a href="https://tailwindcss.com"><img align="center" alt="Tailwind CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"></a>
+<a href="https://www.swift.org/"><img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></a>
+<a href="https://en.wikipedia.org/wiki/Objective-C"><img align="center" alt="Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg"></a>
+<a href="https://reactnative.dev/"><img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg"></a>
+<a href="https://expo.dev/"><img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original-wordmark.svg"></a>
+<a href="https://flutter.dev/"><img align="center" alt="Next.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a>
 <a href="https://www.java.com"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-<a href="https://www.python.org"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 
 ### **APIs & Architecture**
 <a href="https://restfulapi.net"><img align="center" alt="REST APIs" height="30" width="40" src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg"></a>
@@ -37,27 +35,14 @@
 <a href="https://www.postman.com/"><img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
 
 ### **Databases**
-<a href="https://www.postgresql.org"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
-<a href="https://www.mysql.com"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
-<a href="https://supabase.com"><img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"></a>
 <a href="https://firebase.google.com/"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></a>
 
-### **Infrastructure & DevOps**
-<a href="https://www.docker.com"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
-<a href="https://github.com/features/actions"><img align="center" alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
-<a href="https://aws.amazon.com"><img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
-<a href="https://vercel.com"><img align="center" alt="Vercel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vercel.svg"></a>
-
 ### **Tools & Testing**
+<a href="https://developer.apple.com/xcode"><img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xcode/xcode-original.svg"></a>
 <a href="https://www.figma.com"><img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
-<a href="https://storybook.js.org"><img align="center" alt="Storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg"></a>
-<a href="https://vitejs.dev"><img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg"></a>
 
 ### **AI & Machine Learning**
 <a href="https://openai.com"><img align="center" alt="OpenAI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"></a>
-<a href="https://www.langchain.com"><img align="center" alt="LangChain" height="30" width="40" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0"></a>
-<a href="https://faiss.ai"><img align="center" alt="FAISS" height="30" width="40" src="https://rainboinc.gallerycdn.vsassets.io/extensions/rainboinc/faiss-viewer/0.0.1/1742440759255/Microsoft.VisualStudio.Services.Icons.Default"></a>
-<a href="https://www.trychroma.com/"><img align="center" alt="ChromaDB" height="30" width="40" src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_6ahX99xu2FH8Nkx2KgAvUcQyFiY5"></a>
 
 ---
 
