@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### **Languages & Frameworks**
 <a href="https://www.typescriptlang.org"><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
