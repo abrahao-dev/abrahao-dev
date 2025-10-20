@@ -19,7 +19,7 @@
 
 ---
 
-## Tech Stack
+## 📱 iOS Tech Stack
 
 ### **Languages & Frameworks**
 <a href="https://www.swift.org/"><img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></a>
