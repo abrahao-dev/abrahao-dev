@@ -22,11 +22,12 @@
 ## 📱 iOS Tech Stack
 
 ### **Languages & Frameworks**
-<a href="https://www.swift.org/"><img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></a>
-<a href="https://en.wikipedia.org/wiki/Objective-C"><img align="center" alt="Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg"></a>
-<a href="https://reactnative.dev"><img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg"></a>
-<a href="https://expo.dev"><img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original-wordmark.svg"></a>
-<a href="https://flutter.dev"><img align="center" alt="Next.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a>
+<a href="https://www.swift.org/"><img align="center" alt="Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"></a>
+<a href="https://en.wikipedia.org/wiki/Objective-C"><img align="center" alt="Objective-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg"></a>
+<a href="https://www.c-language.org/"><img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></a>
+<a href="https://reactnative.dev"><img align="center" alt="React Native" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg"></a>
+<a href="https://expo.dev"><img align="center" alt="Expo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original-wordmark.svg"></a>
+<a href="https://flutter.dev"><img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a>
 <a href="https://www.java.com"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 
 ### **APIs & Architecture**
@@ -38,9 +39,9 @@
 <a href="https://firebase.google.com"><img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></a>
 
 ### **Tools & Testing**
-<a href="https://developer.apple.com/xcode"><img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xcode/xcode-original.svg"></a>
-<a href="https://developer.android.com/studio"><img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/androidstudio"></a>
-<a href="https://code.visualstudio.com"><img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>
+<a href="https://developer.apple.com/xcode"><img align="center" alt="XCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xcode/xcode-original.svg"></a>
+<a href="https://developer.android.com/studio"><img align="center" alt="Android Studio" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/androidstudio"></a>
+<a href="https://code.visualstudio.com"><img align="center" alt="VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>
 <a href="https://www.figma.com"><img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
 
 ### **AI & Machine Learning**
