@@ -1,4 +1,4 @@
-# Matheus Abrahão
+# Matheus Abrahão <a href="https://www.apple.com/"><img align="center" alt="Apple" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></a>
 
 **`iOS Developer | Swift | SwiftUI | UIKit | MVVM | Mobile Apps`**
 
