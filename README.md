@@ -40,7 +40,6 @@
 
 ### **Tools & Testing**
 <a href="https://developer.apple.com/xcode"><img align="center" alt="XCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xcode/xcode-original.svg"></a>
-<a href="https://developer.android.com/studio"><img align="center" alt="Android Studio" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/androidstudio"></a>
 <a href="https://code.visualstudio.com"><img align="center" alt="VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>
 <a href="https://www.figma.com"><img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
 
