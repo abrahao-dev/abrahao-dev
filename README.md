@@ -1,6 +1,6 @@
 # Matheus Abrahão
 
-**`Full Stack Developer | React | Next.js | TypeScript | Node.js | SQL`**
+**`iOS Developer | Swift | SwiftUI | UIKit | MVVM | Mobile Apps`**
 
 <p>
   <a href="http://matheusabrahao.com.br">
@@ -63,28 +63,29 @@
 
 ## 🏆 Professional Summary
 
-Full Stack Developer passionate about building modern, scalable full-stack applications rooted in clean architecture, automation, and solid engineering principles. I primarily work with **React**, **Next.js**, **Typescript**, and **Node.js**, delivering robust end-to-end solutions backed by strong foundations in algorithms, data structures, and systems design.
+iOS Developer passionate about building modern, intuitive, and high-performance mobile applications rooted in clean architecture and solid engineering principles. I primarily work with **Swift**, **SwiftUI**, and **UIKit**, employing design patterns like **MVVM** to deliver robust native solutions backed by strong foundations in algorithms, data structures, and mobile systems design.
 
-Since 2021, I’ve independently led the technical operations of **Martin4Shop**, an e-commerce brand I founded that has generated over $80,000 in revenue. I built the entire platform from scratch using Shopify Hydrogen, React, and Remix, along with custom automations. This gave me hands-on experience at the intersection of engineering, product, and business — a perspective I carry into every project.
+I have full command of the entire mobile development lifecycle: from translating complex UI/UX designs into pixel-perfect interfaces, to managing state (using Combine/Concurrency), handling networking, and implementing local persistence with Core Data or Realm. I am dedicated to writing clean, testable, and maintainable code that follows **SOLID principles**.
 
-I have full command of the development lifecycle: modern web applications, REST/GraphQL APIs, relational and NoSQL databases, CI/CD pipelines, containerization, testing, and writing clean, maintainable code following SOLID principles. I also have practical experience integrating machine learning models and AI-powered solutions.
+I have practical experience integrating REST/GraphQL APIs, managing app deployment through TestFlight and the App Store Connect, and setting up CI/CD pipelines for mobile. I am also comfortable integrating machine learning models and AI-powered solutions into native apps.
 
-I’m currently seeking opportunities as a Software Engineer in environments where autonomy, technical excellence, and measurable impact matter.
+I’m currently seeking opportunities as an **iOS Engineer** in environments where autonomy, technical excellence, and creating a measurable impact on the user experience matter.
 
 ---
 
 ## 🎯 Focus Areas
-- **Frontend**: React, Next.js, Tailwind
-- **Backend & APIs**: Node.js, TypeScript, Java, REST/GraphQL
-- **Databases**: PostgreSQL, MySQL
-- **Artificial Intelligence**: LLMs, OpenAI API, Hugging Face, LangChain, LangGraph
-- **DevOps**: Docker, CI/CD, Vercel, AWS  
+* **Core Mobile**: Swift, SwiftUI, UIKit
+* **Architecture & State**: MVVM, Clean Architecture, Combine, Concurrency
+* **Persistence**: Core Data, SwiftData, Realm, Firebase
+* **Tools & Ecosystem**: Xcode, TestFlight, App Store Connect, Swift Package Manager (SPM)
+* **Testing & DevOps**: XCTest, CI/CD (e.g., Fastlane, GitHub Actions)
 
 ---
 
 ## 🎓 Education
-- **Computer Engineering** - Universidade São Francisco
-- **Swift Live** - iOS Labs Development Course (Swift & SwiftUI)
+* **Computer Engineering** - Universidade São Francisco
+* **Swift Live** - iOS Labs Development Course (Swift & SwiftUI)
+* **Bootcamp Mobile iOS** - MasterCode Academy (StoryBoard, ViewCode, SwiftUI)
 
 ---
 
