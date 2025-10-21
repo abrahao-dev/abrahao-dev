@@ -73,6 +73,8 @@ I’m currently seeking opportunities as an **iOS Engineer** in environments whe
 * **Computer Engineering** - Universidade São Francisco
 * **Swift Live** - iOS Labs Development Course (Swift & SwiftUI)
 * **Bootcamp Mobile iOS** - MasterCode Academy (StoryBoard, ViewCode, SwiftUI)
+* **Introdução ao desenvolvimento de aplicativos iOS por Attekita Dev** - Cursa
+* **Crie aplicativos iOS do Zero com Tiago Aguiar** - Cursa
 
 ---
 
