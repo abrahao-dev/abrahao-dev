@@ -6,7 +6,11 @@ iOS Software Engineer
 
 ## Summary
 
-Building and shipping native iOS applications with a focus on architecture, performance, and long-term maintainability. I write code that scales, test what matters, and take ownership of the full product lifecycle.
+Building and shipping native iOS applications with a focus on architecture, performance, and long-term maintainability. I write code that scales, test critical paths, and take ownership of the full product lifecycle.
+
+Experienced in building local-first, privacy-focused applications with clean separation of concerns.
+
+I value clear architecture, predictable code, and shipping features that hold up in production.
 
 ---
 
