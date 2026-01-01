@@ -1,66 +1,36 @@
 ﻿# Matheus Abrahao
 
-**iOS Software Engineer**
+iOS Software Engineer
 
 ---
 
-## About
+## Summary
 
-iOS Software Engineer focused on building production-ready mobile applications with Swift and SwiftUI. I prioritize clean architecture, code maintainability, and privacy-first design. Currently working on native iOS products with local-first data strategies and a strong emphasis on user experience aligned with Apple Human Interface Guidelines.
-
----
-
-## Core Stack
-
-- Swift, SwiftUI, UIKit
-- MVVM, Clean Architecture
-- SwiftData, Core Data
-- REST API integration
-- WidgetKit, Local Notifications
-- Git, GitHub, CI/CD
-- Xcode, Instruments
+Building and shipping native iOS applications with a focus on architecture, performance, and long-term maintainability. I write code that scales, test what matters, and take ownership of the full product lifecycle.
 
 ---
 
-## Featured Project
+## Stack
 
-### Prism - Subscription Manager
-
-Native iOS application for managing recurring subscriptions with a privacy-first approach.
-
-**Technical highlights:**
-- Built entirely with SwiftUI
-- MVVM architecture
-- SwiftData for local persistence
-- Local notifications for renewal reminders
-- Home Screen widgets using WidgetKit
-- Data visualization with Swift Charts
-- Dark Mode support
-- 100% local data - no external servers, no tracking
-- Designed following Apple Human Interface Guidelines
+Swift, SwiftUI, UIKit, MVVM, SwiftData, Core Data, WidgetKit, Swift Charts, Instruments
 
 ---
 
-## Engineering Principles
+## Shipped
 
-- Privacy by design
-- Local-first architecture
-- Clean, testable code
-- Performance-conscious development
-- Ownership and accountability
-- Continuous improvement through code review and iteration
+### [Prism - Subscription Manager](https://apps.apple.com/br/app/prism-gestor-de-assinaturas/id6756632643)
 
----
+Production iOS app for tracking recurring subscriptions. Fully offline, no telemetry.
 
-## Education
+- SwiftUI + MVVM + SwiftData
+- WidgetKit integration
+- Local notification scheduling
+- Custom data visualization with Swift Charts
 
-Bachelor of Computer Engineering
+Additional iOS projects developed under NDA or maintained in private repositories.
 
 ---
 
-## Contact
+## Links
 
-- [GitHub](https://github.com/abrahao-dev)
-- [LinkedIn](https://www.linkedin.com/in/abrahao-dev)
-- [Portfolio](http://matheusabrahao.com.br)
-- [contato.matheusabrahao@gmail.com](mailto:contato.matheusabrahao@gmail.com)
+[GitHub](https://github.com/abrahao-dev) · [LinkedIn](https://www.linkedin.com/in/abrahao-dev) · [Portfolio](http://matheusabrahao.com.br) · [Email](mailto:contato.matheusabrahao@gmail.com)
