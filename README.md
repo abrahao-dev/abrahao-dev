@@ -85,10 +85,10 @@ struct Developer {
 
 ---
 
-## � Currently
+## ⚡ Currently
 
-- 🚧 **Building:** Privacy-focused iOS apps with SwiftData & WidgetKit
-- 📚 **Learning:** The Composable Architecture (TCA), Swift 6 concurrency
+- � **Building:** Privacy-focused iOS apps with SwiftData & WidgetKit
+- � **Learning:** The Composable Architecture (TCA), Swift 6 concurrency
 - 🎯 **Goal for 2026:** Ship 2 more apps to the App Store
 
 ---
