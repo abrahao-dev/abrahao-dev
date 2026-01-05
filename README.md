@@ -85,15 +85,11 @@ struct Developer {
 
 ---
 
-## 📈 GitHub Stats
+## � Currently
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrahao-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahao-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
+- 🚧 **Building:** Privacy-focused iOS apps with SwiftData & WidgetKit
+- 📚 **Learning:** The Composable Architecture (TCA), Swift 6 concurrency
+- 🎯 **Goal for 2026:** Ship 2 more apps to the App Store
 
 ---
 
