@@ -1,115 +1,65 @@
-﻿<div align="center">
+﻿# Matheus Abrahao
 
-# Hey, I'm Matheus 👋
+**Senior Full Stack Engineer** | React · Next.js · Node.js · TypeScript
 
-### iOS Engineer crafting native apps with Swift & SwiftUI
-
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
-
-</div>
+Building scalable web applications and production systems that drive business results.
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-Building and shipping **native iOS applications** with a focus on architecture, performance, and long-term maintainability. I write code that scales, test critical paths, and take ownership of the full product lifecycle.
+Full Stack Engineer with 5+ years of experience designing, building, and operating production systems end-to-end. I specialize in React/Next.js frontends, Node.js backends, and the infrastructure to ship and scale them.
 
-```swift
-struct Developer {
-    let name = "Matheus Abrahao"
-    let role = "iOS Engineer"
-    let focus = ["Clean Architecture", "Privacy-First", "Local-First"]
-
-    var currentStatus: String {
-        "Building something cool... 🚀"
-    }
-}
-```
+I built and operated an e-commerce platform that processed **US$90,000+ in sales**, handling everything from architecture and development to deployment and performance optimization. I work best in fast-paced, fully remote teams where ownership and product impact matter more than titles.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Frontend
+React · Next.js · TypeScript · HTML/CSS · Tailwind CSS · Responsive Design
 
-| Category | Technologies |
-|:--------:|:-------------|
-| **Languages** | Swift, Objective-C |
-| **UI Frameworks** | SwiftUI, UIKit |
-| **Architecture** | MVVM, Clean Architecture, TCA |
-| **Persistence** | SwiftData, Core Data, UserDefaults |
-| **Apple Frameworks** | WidgetKit, Swift Charts, StoreKit, Combine |
-| **Tools** | Xcode, Instruments, Git, Fastlane |
+### Backend & APIs
+Node.js · Express · REST APIs · GraphQL · Authentication · Webhooks
 
-</div>
+### Databases
+PostgreSQL · MySQL · Prisma · SQL Query Optimization
 
----
+### Infrastructure & Tooling
+Vercel · Docker · Git · GitHub Actions · CI/CD Pipelines
 
-## 📱 Shipped
-
-<div align="center">
-
-### Prism — Subscription Manager
-
-**Track your subscriptions. No cloud. No telemetry. Just yours.**
-
-[![Download on App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/prism-gestor-de-assinaturas/id6756632643)
-
-</div>
-
-> A production iOS app for tracking recurring subscriptions with full offline support and zero data collection.
-
-**Key Features:**
-- 🏗️ **SwiftUI + MVVM + SwiftData** — Modern, declarative architecture
-- 📊 **Swift Charts** — Beautiful, native data visualization
-- 🔔 **Local Notifications** — Smart renewal reminders
-- 📱 **WidgetKit** — Glanceable subscription summaries
-- 🔒 **Privacy-First** — All data stays on-device
+### E-commerce & Integrations
+Shopify (Liquid, Storefront API) · Payment Gateways · Third-Party Integrations
 
 ---
 
-## 💡 What I Believe In
+## Featured Project
 
-```
-┌─────────────────────────────────────────────────────┐
-│  🔒  Privacy is a feature, not an afterthought      │
-│  📱  Local-first by default                         │
-│  🧱  Architecture that survives feature creep       │
-│  🚀  Ship fast, but ship stable                     │
-│  📖  Code that reads like documentation             │
-└─────────────────────────────────────────────────────┘
-```
+### E-commerce Platform — US$90K+ Revenue
 
----
+**Problem:** A growing retail business needed a high-converting, scalable online store with custom checkout flows and inventory management.
 
-## ⚡ Currently
+**Solution:** Designed and built a full-stack e-commerce platform from scratch. Implemented a custom frontend (React/Next.js), integrated payment processing, built an admin dashboard for inventory and order management, and optimized for performance and SEO.
 
-- 🔧 **Building:** Privacy-focused iOS apps with SwiftData & WidgetKit
-- 📚 **Learning:** The Composable Architecture (TCA), Swift 6 concurrency
-- 🎯 **Goal for 2026:** Ship 2 more apps to the App Store
+**Impact:**
+- Generated **US$90,000+** in online sales
+- Reduced page load time by **40%** through frontend optimization
+- Automated order processing, cutting manual work by **60%**
+- Maintained **99.9% uptime** across high-traffic periods
 
 ---
 
-## 📫 Let's Connect
+## How I Work
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrahao-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](http://matheusabrahao.com.br)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.matheusabrahao@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahao-dev)
-
-</div>
+- **End-to-end ownership:** From architecture decisions to production deployment
+- **Business-first mindset:** I prioritize features that drive measurable impact
+- **Clean, maintainable code:** Systems built to scale and survive change
+- **Async-first communication:** Experienced in fully remote, international teams
 
 ---
 
-<div align="center">
+## Let's Connect
 
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=abrahao-dev&color=0D96F6&style=flat-square&label=Profile+Views)
-
-</div>
+- **LinkedIn:** [linkedin.com/in/abrahao-dev](https://www.linkedin.com/in/abrahao-dev)
+- **Portfolio:** [matheusabrahao.com.br](http://matheusabrahao.com.br)
+- **Email:** contato.matheusabrahao@gmail.com
