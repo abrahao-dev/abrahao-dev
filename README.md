@@ -6,7 +6,7 @@
 
 React · Next.js · Node.js · TypeScript · Shopify
 
-I build web products that work — and sell. $90K+ in e-commerce revenue and counting.
+I build web products that convert — and scale. $90K+ in e-commerce revenue and counting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrahao-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.matheusabrahao@gmail.com)
@@ -25,6 +25,15 @@ Currently focused on React/Next.js frontends, Node.js backends, and e-commerce s
 
 ---
 
+## Highlights
+
+- **$90K+** online revenue delivered for a retail business
+- **40%** faster page loads after performance optimization
+- **60%** reduction in manual order processing via custom tooling
+- **99.9%** uptime during peak traffic windows
+
+---
+
 ## Tech Stack
 
 ```
@@ -37,14 +46,14 @@ Infrastructure  Vercel · Docker · GitHub Actions · CI/CD · AWS · Firebase
 
 ---
 
-## Featured Work
+## What I Build
 
 ### 🛒 E-commerce Platform — $90K+ Revenue
 
-**Problem**
+**Problem**  
 A retail business needed a high-converting online store with custom checkout logic, inventory sync, and room to scale.
 
-**Solution**
+**Solution**  
 Built the full stack: React/Next.js storefront, Node.js backend, Shopify integration, payment processing, and an admin dashboard for orders and inventory. Optimized for speed, SEO, and conversion.
 
 **Impact**
@@ -68,7 +77,7 @@ Built the full stack: React/Next.js storefront, Node.js backend, Shopify integra
 
 ---
 
-## Let's Talk
+## Let’s Build Something
 
 Open to senior full stack, frontend, or product engineering roles — especially in fast-moving teams that care about shipping real products.
 
