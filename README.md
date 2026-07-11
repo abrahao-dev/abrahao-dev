@@ -27,12 +27,13 @@
 
 ```ts
 const matheus: ShopifyEngineer = {
-  role:      "Shopify & Shopify Plus Developer",
-  focus:     ["Custom Apps", "Storefront Engineering", "Digital Operations"],
-  founded:   "Scaled my own Shopify store to $120,000+ in gross sales",
-  clients:   "Delivered solutions across 10+ countries as sole engineer",
-  currently: "Scale Army — Senior Software Engineer (Remote)",
-  mindset:   "Real commerce lives in the machinery most people never see",
+  role:    "Shopify & Shopify Plus Dev",
+  focus:   ["Custom Apps", "Storefronts",
+            "Digital Operations"],
+  founded: "$120K+ store from scratch",
+  clients: "10+ countries, sole engineer",
+  now:     "Scale Army (Remote)",
+  mindset: "the machinery nobody sees",
 };
 ```
 
@@ -114,8 +115,13 @@ Today I'm focused **100% on Shopify & Shopify Plus**: custom app development, st
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abrahao-dev&show_icons=true&count_private=true&hide_border=true&title_color=2EA043&icon_color=0b6e4f&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahao-dev&layout=compact&hide_border=true&title_color=2EA043&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+<img width="80%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+
+<img width="42%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+<img width="42%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+
+<img width="42%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
+<img width="42%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
 
 <br/>
 
@@ -141,27 +147,19 @@ Today I'm focused **100% on Shopify & Shopify Plus**: custom app development, st
 
 </div>
 
-<!-- ═══════════════════════════════  TROPHIES  ═══════════════════════════════ -->
-
-## `~/trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abrahao-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-</div>
-
 <!-- ═══════════════════════════════  HOW I WORK  ═══════════════════════════════ -->
 
 ## `~/how-i-work`
 
 ```bash
 $ matheus --principles
-→ Own the store end-to-end. Storefront to checkout to ops.
-→ Ship for real outcomes: conversion, revenue, retention, efficiency.
-→ Build software that survives the next campaign.
-→ Structure & accountability — a strong fit for EOS-run teams.
-→ Communicate async. Work remote. Deliver on time.
+→ Own the store end-to-end.
+→ Ship for real outcomes:
+  conversion · revenue · retention.
+→ Build software that survives
+  the next campaign.
+→ Structure & accountability (EOS).
+→ Async. Remote. On time.
 ```
 
 <!-- ═══════════════════════════════  CONNECT  ═══════════════════════════════ -->
