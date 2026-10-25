@@ -154,10 +154,6 @@ I sit where engineering meets revenue. I write the Liquid, wire up the integrati
 
 <img height="180" src="https://streak-stats.demolab.com?user=abrahao-dev&hide_border=true&background=0d1117&stroke=2EA043&ring=2EA043&fire=0b6e4f&currStreakLabel=2EA043&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abrahao-dev&bg_color=0d1117&color=2EA043&line=0b6e4f&point=e8fff3&area=true&hide_border=true" alt="Activity Graph" />
-
 </div>
 
 <!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
