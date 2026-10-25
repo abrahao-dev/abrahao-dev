@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6e4f,50:1a7431,100:0d2818&height=200&section=header&text=Matheus%20Abrah%C3%A3o&fontColor=e8fff3&fontSize=52&fontAlignY=38&desc=Building%20the%20Future%20of%20Commerce&descAlignY=60&descSize=20&animation=fadeIn" alt="Matheus Abrahão" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6e4f,50:1a7431,100:0d2818&height=200&section=header&text=Matheus%20Abrah%C3%A3o&fontColor=e8fff3&fontSize=52&fontAlignY=38&desc=Shopify%20Developer%20%26%20Shopify%20Plus%20Expert&descAlignY=60&descSize=20&animation=fadeIn" alt="Matheus Abrahão" />
 
 <div align="center">
 
 <!-- Typing animation -->
 <a href="https://www.linkedin.com/in/abrahao-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=720&lines=Shopify+%26+Shopify+Plus+Developer;E-commerce+Engineer+%26+Digital+Operations;Custom+Apps+%C2%B7+Liquid+%C2%B7+Klaviyo+%C2%B7+GA4;I+build+the+machinery+that+turns+traffic+into+revenue" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=720&lines=Shopify+%26+Shopify+Plus+Developer;CRO+%C2%B7+Speed+%C2%B7+Shopify+SEO;Liquid+%C2%B7+Klaviyo+%C2%B7+Integrations+%C2%B7+Migrations;%2B74%25+sales+for+a+NY+retailer;Remote+for+US+brands%2C+US+hours" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,9 @@
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrahao-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.matheusabrahao@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahao-dev)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01864b8b7d6ba0fbc2)
+[![X](https://img.shields.io/badge/@abrahao__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abrahao_dev)
+[![Website](https://img.shields.io/badge/matheusabrahao.com.br-0b6e4f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.matheusabrahao.com.br)
 [![Shopify](https://img.shields.io/badge/Shopify_Partner-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com)
 
 <img src="https://komarev.com/ghpvc/?username=abrahao-dev&label=Profile%20views&color=0b6e4f&style=for-the-badge" alt="Profile views" />
@@ -26,20 +28,21 @@
 ## `~/whoami`
 
 ```ts
-const matheus: ShopifyEngineer = {
-  role:    "Shopify & Shopify Plus Dev",
-  focus:   ["Custom Apps", "Storefronts",
-            "Digital Operations"],
-  founded: "$120K+ store from scratch",
-  clients: "10+ countries, sole engineer",
-  now:     "Scale Army (Remote)",
-  mindset: "the machinery nobody sees",
+const matheus: ShopifyDeveloper = {
+  role:       "Shopify & Shopify Plus Developer",
+  focus:      ["CRO", "Speed", "Shopify SEO",
+               "Integrations", "Migrations"],
+  experience: "6+ years, 10+ countries",
+  result:     "+74% sales for a NY retailer",
+  merchant:   "$120K+ store built from scratch",
+  now:        "Scale Army (Remote, US hours)",
+  mindset:    "engineering measured in revenue",
 };
 ```
 
-I build the software and systems that make e-commerce brands run and grow. I founded and scaled my own Shopify store to **$120,000+ in gross sales**, engineering the entire technical stack from scratch — storefront, custom apps, integrations, and marketing automation.
+I'm a **Shopify Developer and Shopify Plus expert**. For more than six years I've built, fixed and scaled Shopify stores for brands in **10+ countries**, usually as the **sole technical owner**, working remotely with US teams.
 
-Today I'm focused **100% on Shopify & Shopify Plus**: custom app development, storefront engineering, and the digital operations that power **B2C and B2B** commerce. I've owned production systems end-to-end as **sole engineer and technical decision-maker** for US and international teams, fully remote.
+I sit where engineering meets revenue. I write the Liquid, wire up the integrations and keep the catalog clean, but I measure the work in **sessions, conversion rate and sales**. I've also been the merchant: I scaled my own Shopify store from zero to **$120,000+ in gross sales**, owning development, paid traffic and operations end to end.
 
 <!-- ═══════════════════════════════  WHAT I DO  ═══════════════════════════════ -->
 
@@ -47,12 +50,13 @@ Today I'm focused **100% on Shopify & Shopify Plus**: custom app development, st
 
 | 🧩 | **Focus** | **Details** |
 |:---:|:---|:---|
-| 🛍️ | **Custom Shopify Apps** | Tailored apps & API integrations for B2C and B2B stores |
-| 🎨 | **Storefront & Themes** | Liquid, conversion-focused builds for retail and wholesale flows |
-| ⚙️ | **Digital Operations** | Connecting storefronts to fulfillment, inventory & payments; scalable automations |
-| 📧 | **Marketing & Retention** | Klaviyo email/SMS, flows & segmentation — consent & privacy compliant |
-| 📊 | **Data & Reporting** | Python analytics, inventory reconciliation, Matrixify bulk imports/exports |
-| 🤖 | **AI Workflows** | Using LLMs (Claude, ChatGPT) to accelerate dev & build smarter commerce tooling |
+| 🎨 | **Shopify & Shopify Plus Development** | Custom themes, sections and blocks in Liquid, JavaScript, HTML and CSS (OS 2.0, metaobjects) |
+| 📈 | **CRO, Speed & Shopify SEO** | Conversion rate optimization, Core Web Vitals and technical SEO that move sessions and sales |
+| 🔗 | **Integrations** | Klaviyo, Bazaarvoice, Contentsquare, Tidio, GA4, Microsoft Clarity and custom API work |
+| 🚚 | **Migrations & Payments** | Platform migrations to Shopify, Shopify Payments rollouts, multi-location inventory |
+| 📦 | **Catalog & Operations** | Inventory and product data synced across 7+ sales channels with Python and Matrixify |
+| 📧 | **Klaviyo & Paid Traffic** | Email/SMS flows and segmentation, plus Google Ads and Meta Ads |
+| 🤖 | **AI for Commerce** | AI support agents, knowledge base curation and LLM-powered commerce tooling |
 
 <!-- ═══════════════════════════════  TECH STACK  ═══════════════════════════════ -->
 
@@ -65,11 +69,15 @@ Today I'm focused **100% on Shopify & Shopify Plus**: custom app development, st
 ![Liquid](https://img.shields.io/badge/Liquid-1F6FEB?style=for-the-badge&logo=shopify&logoColor=white)
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-000000?style=for-the-badge&logo=klaviyo&logoColor=white)
 ![Matrixify](https://img.shields.io/badge/Matrixify-2B3A67?style=for-the-badge&logoColor=white)
+![Shopify CLI](https://img.shields.io/badge/Shopify_CLI-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
+![Bazaarvoice](https://img.shields.io/badge/Bazaarvoice-2B2B2B?style=for-the-badge&logoColor=white)
 
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks & Runtime**
@@ -84,6 +92,9 @@ Today I'm focused **100% on Shopify & Shopify Plus**: custom app development, st
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 **Tooling**
 
@@ -98,16 +109,32 @@ Today I'm focused **100% on Shopify & Shopify Plus**: custom app development, st
 
 <div align="center">
 
-| 💰 Revenue Built | 🌍 Countries Served | 🏗️ Stack Ownership | 🚀 Focus |
+| 📈 Client Sales | 🚀 Client Sessions | 💰 Own Store | 🌍 Reach |
 |:---:|:---:|:---:|:---:|
-| **$120K+** gross sales | **10+** countries | **End-to-end**, sole engineer | **Shopify Plus** B2C & B2B |
+| **+74%** total sales | **+455%** sessions | **$120K+** gross sales | **10+** countries |
 
 </div>
 
-- 🏆 Scaled a Shopify store to **$120,000+ in gross sales** — full technical stack built from scratch
-- 🌐 Delivered Shopify & e-commerce solutions for clients across **10+ countries** as sole engineer and technical lead
-- 🔗 Built custom apps, API integrations & automations connecting storefronts to fulfillment, inventory and payments
-- 📈 Klaviyo lifecycle marketing, GA4 analytics, and Python-driven inventory reconciliation at scale
+- 📈 Grew a **New York fashion retailer's** store by **+455% sessions, +114% orders and +74% total sales** through Shopify SEO, site speed, merchandising and integrations
+- 🏆 Scaled a store from scratch to **$120,000+ in gross sales** (~300K sessions, 1,900+ orders), owning development, paid traffic and operations
+- 💳 Led a **Shopify Plus** brand's migration of card processing to **Shopify Payments**
+- ⭐ Fixed a broken legacy reviews integration that was hiding ratings on **more than half** of the reviewed catalog
+- 🔄 Keep inventory and product data in sync across **7+ sales channels** with Python automation and Matrixify
+- 🏢 Founded [NEX Agency](https://nexagency.com.br), a Shopify agency serving clients in the US, Canada, Europe and Latin America
+- 🍎 Swift Student Challenge 2026 Winner (Apple) · B.S. in Software Engineering, Universidade São Francisco
+
+<!-- ═══════════════════════════════  FEATURED WORK  ═══════════════════════════════ -->
+
+## `~/featured-work`
+
+| Project | What it is | Stack |
+|:---|:---|:---|
+| [**venna-shopify-theme**](https://github.com/abrahao-dev/venna-shopify-theme) | Shopify OS 2.0 theme with reusable sections, blocks and Shopify CLI workflow | Liquid · JS · CSS |
+| [**martina4shop-theme**](https://github.com/abrahao-dev/martina4shop-theme) | Production theme behind Martin4Shop, the store I scaled to $120K+ | Liquid · JS · CSS |
+| [**martin-autofulfill**](https://github.com/abrahao-dev/martin-autofulfill) | Shopify order fulfillment automation across Shopify and Shopee: orders, addresses, tracking | Python · Streamlit · Playwright |
+| [**ehr-integration**](https://github.com/abrahao-dev/ehr-integration) | Internal tool that maps and submits data to multiple EHR systems, with API and architecture docs | TypeScript · Node.js |
+| [**podium-app**](https://github.com/abrahao-dev/podium-app) | Spatial canvas to orchestrate AI coding agents, the tooling I use to ship faster | Tauri · React · Rust |
+| [**abrahao-labs-chatbot**](https://github.com/abrahao-dev/abrahao-labs-chatbot) | RAG chatbot for marketing support, the same idea behind AI support agents for stores | Python · LangChain |
 
 <!-- ═══════════════════════════════  GITHUB STATS  ═══════════════════════════════ -->
 
@@ -153,24 +180,25 @@ Today I'm focused **100% on Shopify & Shopify Plus**: custom app development, st
 
 ```bash
 $ matheus --principles
-→ Own the store end-to-end.
-→ Ship for real outcomes:
+> Own the store end to end.
+> Ship for real outcomes:
   conversion · revenue · retention.
-→ Build software that survives
+> Build code that survives
   the next campaign.
-→ Structure & accountability (EOS).
-→ Async. Remote. On time.
+> Structure & accountability (EOS).
+> Async. Remote. US hours. On time.
 ```
 
 <!-- ═══════════════════════════════  CONNECT  ═══════════════════════════════ -->
 
 ## `~/lets-connect`
 
-If you're **building on Shopify** or **scaling an e-commerce operation**, let's talk.
+If you're **building on Shopify**, need a **faster, higher-converting store** or a **clean migration**, let's talk.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrahao-dev)
+[![Upwork](https://img.shields.io/badge/Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01864b8b7d6ba0fbc2)
 [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.matheusabrahao@gmail.com)
 
 <br/>
