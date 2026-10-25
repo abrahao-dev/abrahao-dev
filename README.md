@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6e4f,50:1a7431,100:0d2818&height=200&section=header&text=Matheus%20Abrah%C3%A3o&fontColor=e8fff3&fontSize=52&fontAlignY=38&desc=Shopify%20Developer%20%26%20Shopify%20Plus%20Expert&descAlignY=60&descSize=20&animation=fadeIn" alt="Matheus Abrahão" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6e4f,50:1a7431,100:0d2818&height=200&section=header&text=Matheus%20Abrah%C3%A3o&fontColor=e8fff3&fontSize=52&fontAlignY=38&desc=Shopify%20Developer%20%C2%B7%20Shopify%20Plus%20Expert&descAlignY=60&descSize=20&animation=fadeIn" alt="Matheus Abrahão" />
 
 <div align="center">
 
